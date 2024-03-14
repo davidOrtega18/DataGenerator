@@ -1,0 +1,10 @@
+# Ignoring files recommended by IntelliJ:
+**/.idea/workspace.xml
+**/.idea/dictionaries
+
+
+# Ignore .class files
+**/*.class
+
+# Don't include build output
+**/out
